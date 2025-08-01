@@ -7,24 +7,4 @@ Designed an interactive customer churn analysis dashboard in Power BI, starting 
 
 ![3](https://github.com/user-attachments/assets/cba25efd-b03a-4b39-a82a-96a2fd7b5353)
 
-## INSIGHTS
 
-Overall Churn Rate:
-The churn rate is 26.54%, meaning around 1 out of 4 customers left the service.
-
-Impact of Contract Type:
-Month-to-Month contracts have the highest churn rate (42.71%), showing that customers without long-term commitments are more likely to leave.
-One-year and two-year contracts have significantly lower churn rates (11.27% and 2.83% respectively), indicating that longer contracts reduce churn.
-
-Billing Method Influence:
-Customers using electronic checks have the highest churn rate, suggesting dissatisfaction or convenience issues.
-Those using credit cards and auto-pay options have a lower churn rate, implying automated payments improve retention.
-
-Effect of Paperless Billing:
-Paperless billing customers churn more, indicating that they might prefer human interaction or face issues with online billing.
-
-Total Services & Churn:
-Customers who subscribe to fewer services are more likely to churn. Offering bundled services may improve retention.
-
-Demographic Impact:
-Customers without dependents churn more compared to those with families, suggesting families might value stability more.
